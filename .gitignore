@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+things_config.py
+migrate.py
+.ipynb_checkpoints/
